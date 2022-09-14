@@ -1,0 +1,36 @@
+
+body{
+	font-family: sans-serif;
+	background-image: url("background_HW1.jpg");
+}
+
+#my_name{
+	text-align: center;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table{
+	width: 25%;
+}
+
+td, th{
+	padding: 12px;
+}
+
+tr:nth-child(odd){
+	background-color: lightgrey;
+}
+
+a:hover{
+	color: orange;
+}
+
+span{
+	color: red;
+	font-weight: bold;
+}
